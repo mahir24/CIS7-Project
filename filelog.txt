@@ -1,0 +1,78 @@
+Original Message: yes
+Key: no
+New Generated Key: non
+Encrypted Message: XER
+Decrypted Message: E1?
+***************************************
+Original Message: yes
+Key: no
+New Generated Key: non
+Encrypted Message: XER
+Decrypted Message: E1?
+***************************************
+Original Message: m
+Key: i
+New Generated Key: i
+Encrypted Message: G
+Decrypted Message: 9
+***************************************
+Original Message: HELLO
+Key: FRIEND
+New Generated Key: FRIEN
+Encrypted Message: MVTPB
+Decrypted Message: HELLO
+***************************************
+Original Message: HELLO
+Key: FRIEND
+New Generated Key: FRIEN
+Encrypted Message: MVTPB
+Decrypted Message: HELLO
+***************************************
+Original Message: HELLO FRIEND
+Key: BYE
+New Generated Key: BYEBYEBYEBYE
+Encrypted Message: ICPMMXGPMFLH
+Decrypted Message: HELLOTFRIEND
+***************************************
+Original Message: HELLO FRIEND
+Key: BYE
+New Generated Key: BYEBYEBYEBYE
+Encrypted Message: ICPMMXGPMFLH
+Decrypted Message: HELLOTFRIEND
+***************************************
+Original Message: HELLO
+Key: BYE
+New Generated Key: BYEBY
+Encrypted Message: ICPMM
+Decrypted Message: HELLO
+***************************************
+Original Message: CANT STOP
+Key: RHCP
+New Generated Key: RHCPRHCPR
+Encrypted Message: THPIKZVDG
+Decrypted Message: CANTTSTOP
+***************************************
+Original Message: WHO WANTS
+Key: ICE
+New Generated Key: ICEICEICE
+Encrypted Message: EJSBYEVVW
+Decrypted Message: WHOTWANTS
+***************************************
+Original Message: WHO WANTS
+Key: ICE
+New Generated Key: ICEICEICE
+Encrypted Message: EJSBYEVVW
+Decrypted Message: WHOTWANTS
+***************************************
+Original Message: WHO?
+Key: WHAT
+New Generated Key: WHAT
+Encrypted Message: SOOR
+Decrypted Message: WHOY
+***************************************
+Original Message: MESSAGE
+Key: KEY
+New Generated Key: KEYKEYK
+Encrypted Message: WIQCEEO
+Decrypted Message: MESSAGE
+***************************************
