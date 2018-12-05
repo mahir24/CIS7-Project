@@ -1,78 +1,91 @@
-Original Message: yes
-Key: no
-New Generated Key: non
-Encrypted Message: XER
-Decrypted Message: E1?
+
+Original Message: PLEASEHELP
+Key: KILLME
+New Generated Key: KILLMEKILL
+Encrypted Message: ZTPLEIRMWA
+Decrypted Message: PLEASEHELP
 ***************************************
-Original Message: yes
-Key: no
-New Generated Key: non
-Encrypted Message: XER
-Decrypted Message: E1?
+Original Message: HELLOWORLD
+Key: HELLO
+New Generated Key: HELLOHELLO
+Encrypted Message: OIWWCDSCWR
+Decrypted Message: p@
 ***************************************
-Original Message: m
-Key: i
-New Generated Key: i
-Encrypted Message: G
-Decrypted Message: 9
+Original Message: HELLOWORLDIMDEAD
+Key: 
+New Generated Key: 
+Encrypted Message: WPPLGAVVWSXXHESH
+Decrypted Message: p@
 ***************************************
-Original Message: HELLO
-Key: FRIEND
-New Generated Key: FRIEN
-Encrypted Message: MVTPB
-Decrypted Message: HELLO
+Original Message: THISISSTUPOD
+Key: HELLO
+New Generated Key: HELLOHELLOHE
+Encrypted Message: ALTDWZWEFDVH
+Decrypted Message: p@
 ***************************************
-Original Message: HELLO
-Key: FRIEND
-New Generated Key: FRIEN
-Encrypted Message: MVTPB
-Decrypted Message: HELLO
+Original Message: ALTDWZWEFDVH
+Key: HELLO
+New Generated Key: HELLOHELLOHE
+Encrypted Message: 
+Decrypted Message: =0))@-0)K=@?
 ***************************************
-Original Message: HELLO FRIEND
-Key: BYE
-New Generated Key: BYEBYEBYEBYE
-Encrypted Message: ICPMMXGPMFLH
-Decrypted Message: HELLOTFRIEND
+Original Message: ALTDWZWEFDVH
+Key: HELLO
+New Generated Key: HELLOHELLOHE
+Encrypted Message: 
+Decrypted Message: =0))@-0)KI<8
 ***************************************
-Original Message: HELLO FRIEND
-Key: BYE
-New Generated Key: BYEBYEBYEBYE
-Encrypted Message: ICPMMXGPMFLH
-Decrypted Message: HELLOTFRIEND
+Original Message: ALTD
+Key: HELLO
+New Generated Key: HELL
+Encrypted Message: 
+Decrypted Message: =0))
 ***************************************
-Original Message: HELLO
-Key: BYE
-New Generated Key: BYEBY
-Encrypted Message: ICPMM
-Decrypted Message: HELLO
+Original Message: PLEASEWORK
+Key: HELLO
+New Generated Key: HELLOHELLO
+Encrypted Message: WPPLGLAZCY
+Decrypted Message: 
 ***************************************
-Original Message: CANT STOP
-Key: RHCP
-New Generated Key: RHCPRHCPR
-Encrypted Message: THPIKZVDG
-Decrypted Message: CANTTSTOP
+Original Message: WPPLGLAZCY
+Key: HELLO
+New Generated Key: HELLOHELLO
+Encrypted Message: 
+Decrypted Message: =0))@-0)KA
 ***************************************
-Original Message: WHO WANTS
-Key: ICE
-New Generated Key: ICEICEICE
-Encrypted Message: EJSBYEVVW
-Decrypted Message: WHOTWANTS
+Original Message: WPPLGLAZCY
+Key: HELLOHELLO
+New Generated Key: HELLOHELLO
+Encrypted Message: 
+Decrypted Message: =0))@-0)K/
 ***************************************
-Original Message: WHO WANTS
-Key: ICE
-New Generated Key: ICEICEICE
-Encrypted Message: EJSBYEVVW
-Decrypted Message: WHOTWANTS
+Original Message: WPPLGLAZCY
+Key: OLLEH
+New Generated Key: OLLEHOLLEH
+Encrypted Message: 
+Decrypted Message: 6))0-@))R2
 ***************************************
-Original Message: WHO?
-Key: WHAT
-New Generated Key: WHAT
-Encrypted Message: SOOR
-Decrypted Message: WHOY
+Original Message: WPPLGLAZCY
+Key: HELLO
+New Generated Key: HELLOHELLO
+Encrypted Message: 
+Decrypted Message: =0))@-0)K1
 ***************************************
-Original Message: MESSAGE
-Key: KEY
-New Generated Key: KEYKEYK
-Encrypted Message: WIQCEEO
-Decrypted Message: MESSAGE
+Original Message: WPPLGLAZCY
+Key: HELLO
+New Generated Key: HELLOHELLO
+Encrypted Message: 
+Decrypted Message: PLEASEWORK
+***************************************
+***ENCRYPTION***
+Original Message: IGOTTHISTOWORK
+Key: KILLME
+New Generated Key: KILLMEKILLMEKI
+Encrypted Message: SOZEFLSAEZISBS
+***************************************
+***DECRYPTION***
+Encrypted Message: SOZEFLSAEZISBS
+Key: KILLME
+New Generated Key: KILLMEKILLMEKI
+Decrypted Message: IGOTTHISTOWORK
 ***************************************
