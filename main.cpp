@@ -1,8 +1,8 @@
 /* 
  * File:   main.cpp
  * Author: Mahir Rahman & Shane Osgood
- * Created on February 13, 2018, 12:05 PM
- * Purpose: C++ Template
+ * Created on November 2018
+ * Purpose: Cis 7 Vigenère Cipher.
  */
 //System Libraries
 #include<bits/stdc++.h> 
