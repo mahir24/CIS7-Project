@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
     char msg[mssg.size()+1];
     strcpy(msg, mssg.c_str());
 
-    cout<<"Please input key for code: ";
+    cout<<"Please input key for code (MUST BE SINGLE STRING WITH NO SPACES OR SYMBOLS): ";
     getline(cin,keyy);    
     //Transforms lowercase letters to uppercase
     transform(keyy.begin(), keyy.end(), keyy.begin(), ::toupper); 
